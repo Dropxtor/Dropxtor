@@ -1,5 +1,13 @@
 ## Hi there 👋
+### 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropxtor&theme=algolia&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dropxtor&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
+</p>
 <!--
 **Dropxtor/Dropxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
