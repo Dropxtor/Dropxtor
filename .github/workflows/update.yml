@@ -21,7 +21,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "dropxtor@gmail.com"
+          git config --global user.email "dropxtor@"
           git config --global user.name "Dropxtor"
 
       - name: Pull Latest Changes
